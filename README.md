@@ -1,2 +1,3 @@
 # python
-exercicios de python
+estudos
+
